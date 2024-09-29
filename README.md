@@ -25,4 +25,4 @@
 
 ## Preview 
 
-<img width="800px;" src="./preview.png"/>
+<img width="800px;" src="./preview.PNG"/>
